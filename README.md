@@ -2,7 +2,7 @@
 
 ## 🎓 Descripción
 
-Bienvenidos al repositorio del curso de **NumPy y Pandas** impartido en [Platzi](https://platzi.com/cursos/numpy-pandas/) por [Carli Florida (@carlicode)](https://twitter.com/carlicode) 🇧🇴. Este repositorio ofrece ejemplos y códigos prácticos para el análisis de datos con estas poderosas bibliotecas. 🚀
+Bienvenidos al repositorio del curso de **NumPy y Pandas** impartido en [Platzi](https://platzi.com/cursos/numpy-pandas/) por [Carli Florida (@carlicode)](https://github.com/carlicode) 🇧🇴. Este repositorio ofrece ejemplos y códigos prácticos para el análisis de datos con estas poderosas bibliotecas. 🚀
 
 ## 📚 Contenido
 
