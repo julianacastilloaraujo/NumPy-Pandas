@@ -35,4 +35,4 @@ Si encuentras errores o tienes mejoras para aportar, ¡no dudes en contribuir! �
 
 ---
 
-¡Feliz aprendizaje y análisis de datos! <strong>Nunca Pares De Aprender</strong>
+¡Feliz aprendizaje y análisis de datos! <strong>Nunca Pares De Aprender</strong> 💪💚
