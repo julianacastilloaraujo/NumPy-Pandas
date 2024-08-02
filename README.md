@@ -8,7 +8,7 @@ Bienvenidos al repositorio del curso de **NumPy y Pandas** impartido en [Platzi]
 
 - **NumPy**: Fundamentos y técnicas de manipulación de arrays.
 - **Pandas**: Análisis y procesamiento de datos en DataFrames.
-- **Ejemplos prácticos**: Código para ayudarte a aplicar lo aprendido.
+- **Ejemplos prácticos**: En ventas ✨
 
 ## 🔗 Recursos
 
